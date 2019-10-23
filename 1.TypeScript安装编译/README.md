@@ -21,6 +21,10 @@
 
 ```
 npm install -g typescript
+
+查看ts版本
+
+tsc --v
 ```
 
 * typescript手动编译
